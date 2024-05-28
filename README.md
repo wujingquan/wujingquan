@@ -3,6 +3,7 @@
 Glad you came to my GitHub homepage. 
 
 If you have the opportunity, I hope to learn to write code with you.
+I am a Full Stack Developer with 10+ years of experience in developing enterprise applications and open-source software.
 
 ## &#x1f92b; Languages
 
